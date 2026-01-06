@@ -1,0 +1,9 @@
+# 依赖
+node_modules/
+
+# 构建文件
+.vitepress/cache/
+.vitepress/dist/
+
+# lock文件
+pnpm-lock.yaml
